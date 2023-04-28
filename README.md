@@ -11,14 +11,15 @@
   I am a currently pursuing 30 Week Full-Time web development course at Masai School, Benagluru.
 I am very much keen in learning new things in MERN Stack, I am Interested to serve in an environment that enables me to utilize my knowledge and skills effectively towards the achievement of organization also to progress professionally.
 </p>
-<ul>
-  <li>✍ You can find my resume here <a href="https://drive.google.com/file/d/1sVhFtj1C1H-Gq-eMZLT-CbtleuN7lnPN/view?usp=sharing">Resume</a></li>
-  <li>🤘 My Portfolio: <a href="https://shubham-Adhya.github.io/">Link</a></li>
-  <li>🌱 I’m currently learning React</li>
-  <li>👯 I’m looking to collaborate on open source</li>
-  <li>📫 Reach out to me: shubhamadhya@gmail.com</li>
-<!--   <li>⚡ Fun fact:</li> -->
-</ul>
+
+- ✍ You can find my resume here <a href="https://drive.google.com/file/d/1sVhFtj1C1H-Gq-eMZLT-CbtleuN7lnPN/view?usp=sharing">Resume</a>
+- 🤘 My Portfolio: <a href="https://shubham-Adhya.github.io/">Link</a>
+- 🌱 I’m currently learning React
+- 💬 Ask me about HTML, CSS, JavaScript, DSA
+- 👯 I’m looking to collaborate on open source
+- 📫 Reach out to me: shubhamadhya@gmail.com
+<!--   ⚡ Fun fact: -->
+
 
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Tech Stack</b>
@@ -51,6 +52,8 @@ I am very much keen in learning new things in MERN Stack, I am Interested to ser
 <a href="https://www.linkedin.com/in/shubham-adhya">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-Adhya&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-Adhya" /> </p>
 
 
 
