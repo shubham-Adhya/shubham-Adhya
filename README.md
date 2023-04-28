@@ -1,7 +1,9 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham 👩‍💻</h1>
-<br>
-I am an enthusiastic Backend Developer with a passion for learning new things every day.
-<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=70&lines=Thanks+for+stopping+by..&hearts;++;I'm+a+Back-End+Developer;React+Newbie;Active+Learner;Problem+Solver;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
 <ul>
@@ -13,7 +15,8 @@ I am an enthusiastic Backend Developer with a passion for learning new things ev
 <!--   <li>⚡ Fun fact:</li> -->
 </ul>
 
-### 🚀 My Tech Stack:
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Tech Stack</b>
 
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -25,7 +28,9 @@ I am an enthusiastic Backend Developer with a passion for learning new things ev
     <img width: "48px" height="48px" src="https://formcake.com/images/aws-activate-logo.png"/>
 </p>
 
-### 📊 My Github Stats:
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>My Github Stats</b>
+
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-Adhya&count_private=true&show_icons=true&theme=radical&hide_border=true) 
 <img alt="Shubham Adhya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-Adhya&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
@@ -34,10 +39,18 @@ I am an enthusiastic Backend Developer with a passion for learning new things ev
 
 
 ### Lets connect through:
-<a href="https://linkedin.com/in/shubham-adhya"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="mailto: shubhamadhya@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>  
+
+<a href="https://www.linkedin.com/in/shubham-adhya">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
+</a> 
 
 
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
