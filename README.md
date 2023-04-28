@@ -8,7 +8,7 @@
 <br>
 <ul>
   <li>✍ You can find my resume here <a href="https://drive.google.com/file/d/1sVhFtj1C1H-Gq-eMZLT-CbtleuN7lnPN/view?usp=sharing">Resume</a></li>
-  <li>🤘 My Portfolio: <a href="https://shubham-adhya.github.io/">Link</a></li>
+  <li>🤘 My Portfolio: <a href="https://shubham-Adhya.github.io/">Link</a></li>
   <li>🌱 I’m currently learning React</li>
   <li>👯 I’m looking to collaborate on open source</li>
   <li>📫 Reach out to me: shubhamadhya@gmail.com</li>
