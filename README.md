@@ -53,8 +53,9 @@ I am very much keen in learning new things in MERN Stack, I am Interested to ser
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-Adhya&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-Adhya" /> </p>
 
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-Adhya&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-Adhya" /> </p>
 
 
 
