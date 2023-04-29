@@ -42,7 +42,7 @@ I am very much keen in learning new things in MERN Stack, I am Interested to ser
 <img alt="Shubham Adhya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-Adhya&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shubham-Adhya&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="shubham-Adhya" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shubham-Adhya&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="shubham-Adhya" /></p>
 
 ### Lets connect through:
 <a href="mailto: shubhamadhya@gmail.com">
