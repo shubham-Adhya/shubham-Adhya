@@ -9,7 +9,7 @@
 
 <p>
   I am currently pursuing a 30 Week Full-Time web development course at Masai School, Bengaluru.
-I am very much keen in learning new things in MERN Stack, I am Interested to serve in an environment that enables me to utilize my knowledge and skills effectively towards the achievement of organization also to progress professionally.
+I am very much keen in learning new things in MERN Stack, I am Interested to serve in an environment that enables me to utilize my knowledge and skills effectively towards the achievement of organization, also to progress professionally.
 </p>
 
 - ✍ You can find my resume here <a href="https://drive.google.com/file/d/1sVhFtj1C1H-Gq-eMZLT-CbtleuN7lnPN/view?usp=sharing">Resume</a>
