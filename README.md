@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=70&lines=Thanks+for+stopping+by..&hearts;++;I'm+a+Back-End+Developer;React+Newbie;Active+Learner;Problem+Solver;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
 
 <p>
